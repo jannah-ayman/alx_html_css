@@ -18,3 +18,15 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+h1 {
+    color: rgb(205, 96, 115);
+}
+
+h2 {
+    color: rgb(200, 119, 132);
+}
+
+h3 {
+    color: rgb(215, 155, 165);
+}
