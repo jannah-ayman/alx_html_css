@@ -1,2 +1,4 @@
 # alx_html_css
-readme for my first project
+WELCOME TO MY HEADPHONES WEBSITE PROJECT
+TBA
+COMING SOON ...
